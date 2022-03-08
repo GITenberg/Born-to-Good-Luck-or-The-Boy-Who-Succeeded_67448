@@ -1,0 +1,29 @@
+_repo: Born-to-Good-Luck-or-The-Boy-Who-Succeeded_67448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Self-made man
+    aliases:
+    - man, Self-made
+    - Man, Self-Made
+    birthdate: 1853
+    deathdate: 1915
+    gutenberg_agent_id: '54238'
+    url: http://www.gutenberg.org/2009/agents/54238
+description: ''
+gutenberg_issued: '2022-02-20'
+identifiers:
+  gutenberg: '67448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Fame and Fortune Weekly, No. 2, October 13, 1905
+subjects:
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'Fortune -- Fiction'
+- !lcsh 'Success -- Fiction'
+- GITenberg
+title: Born to Good Luck; or The Boy Who Succeeded.
+url: http://www.gutenberg.org/ebooks/67448
