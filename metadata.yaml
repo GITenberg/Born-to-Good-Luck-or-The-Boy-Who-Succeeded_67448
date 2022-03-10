@@ -1,5 +1,8 @@
 _repo: Born-to-Good-Luck-or-The-Boy-Who-Succeeded_67448
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67448-h/images/cover.jpg
 creator:
   author:
     agent_name: Self-made man
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54238'
     url: http://www.gutenberg.org/2009/agents/54238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67448#Born-to-Good-Luck-or-The-Boy-Who-Succeeded
 gutenberg_issued: '2022-02-20'
 identifiers:
   gutenberg: '67448'
